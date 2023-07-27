@@ -56,7 +56,7 @@ function addThongKe() {
     var dataChart = {
         type: 'bar',
         data: {
-            labels: ["Apple", "Samsung", "Xiaomi", "Vivo", "Oppo", "Mobiistar"],
+            labels: ["Apple", "Samsung", "Xiaomi", "Vivo", "Oppo", "Nokia"],
             datasets: [{
                 label: 'Số lượng bán ra',
                 data: [12, 19, 10, 5, 20, 5],
