@@ -554,7 +554,7 @@ function addKhungSuaSanPham(masp) {
                 <td>
                     <select name="chonCompany" onchange="autoMaSanPham(this.value)">`
 
-                    var company = ["Apple", "Coolpad", "HTC", "Itel", "Mobell", "Vivo", "Oppo", "SamSung", "Phillips", "Nokia", "Motorola", "Motorola", "Xiaomi"];
+                    var company = ["Apple", "Realme", "Nuoio", "Asus", "Tecno", "Vivo", "Oppo", "SamSung", "Infinix", "Nokia", "Oneplus", "Masstel", "Xiaomi"];
                     var i = 1;
                     for (var c of company) {
                         var masp = i++;
